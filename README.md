@@ -1,2 +1,2 @@
-# Y_Quantum
+# Noise versus Randomness
 Dorahacks challenge
