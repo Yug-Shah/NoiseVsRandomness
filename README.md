@@ -1,2 +1,2 @@
 # Noise versus Randomness
-Dorahacks challenge
+YQuantum 2024 -- DoraHacks Challenge
